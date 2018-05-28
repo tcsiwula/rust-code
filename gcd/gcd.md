@@ -6,6 +6,11 @@
 cargo run
 ```
 
+## run the tests
+``` 
+cargo test
+```
+
 ## clean up generated files
 ``` 
 cargo clean
