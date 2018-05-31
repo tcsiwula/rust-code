@@ -1,9 +1,2 @@
 # Rust target directory
 target/
-
-
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
